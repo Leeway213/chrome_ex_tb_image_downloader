@@ -18,7 +18,7 @@
   "dependencies": {
     "@types/jszip": "^3.1.7",
     "jquery": "^3.4.1",
-    "jszip": "^3.2.2",
+    "jszip": "^3.7.0",
     "moment": "~2.24.0"
   },
   "devDependencies": {
